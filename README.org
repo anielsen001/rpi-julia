@@ -1,0 +1,6 @@
+#+TITLE: Notes on running Julia on Raspberry Pi, especially Zero
+#+AUTHOR: Aaron Nielsen
+
+https://github.com/Julia-Embedded/jlcross#raspberry-pi-zero
+https://gist.github.com/terasakisatoshi/3f8a55391b1fc22a5db4a43da8d92c98
+https://github.com/mbaz/Gaston.jl
